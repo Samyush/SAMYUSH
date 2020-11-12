@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-https://github-readme-stats.vercel.app/api?username=samyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+[![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/samyush)
 
 [![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&show_icons=true&&them=&hide_title=false)](https://github.com/samyush)
 
