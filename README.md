@@ -1,4 +1,4 @@
-### Hire ME #FLUTTER and ANGULAR 👋
+### Hire ME #FLUTTER, Vue and ANGULAR 👋
 
 <!--
 **Samyush/SAMYUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
