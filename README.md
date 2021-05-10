@@ -1,4 +1,4 @@
-### Hire ME #FLUTTER, Vue.JS, ANGULAR and Laravel 👋
+### Hire ME #FLUTTER, Vue.JS, ANGULAR and Asp.net Core, Laravel 👋
 
 <!--
 **Samyush/SAMYUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
