@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 #### Connect with me:
 
 <p float="left">
-  <a href="https://www.instagram.com/samyush/"><img align="left" width="25" height="25" src="https://imgur.com/eSyhc0r.png"/></a>
-  <a href="https://www.linkedin.com/in/samyush-m-4232a3150/"><img align="left" width="25" height="25" src="https://imgur.com/OS9gna2.png"/></a>
+  <a href="https://www.instagram.com/samyush/"><img align="left" width="25" height="25" src="https://github.com/Samyush/samyush.com.np/blob/master/assets/images/insta.png"/></a>
+  <a href="https://www.linkedin.com/in/samyush-m-4232a3150/"><img align="left" width="25" height="25" src="https://github.com/Samyush/samyush.com.np/blob/master/assets/images/LinkedIn-Logo.wine.png"/></a>
 </p><br/>
 &nbsp;
 
