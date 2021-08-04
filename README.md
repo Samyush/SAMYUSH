@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&show_icons=true&&them=&hide_title=false)](https://github.com/samyush)
 ![Header](https://github.com/Samyush/samyush.com.np/blob/constructionIterration1/assets/aeroplanesImages/flyingObject3.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquekarki&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
 
 ![End Banner](https://github.com/Samyush/TikTacToe_AI/blob/master/images/banana2.gif)
