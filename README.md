@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 [![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/samyush)
 
 ---
+---
 
 #### Connect with me:
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/samyush/"><img align="left" width="25" height="25" src="https://github.com/Samyush/samyush.com.np/blob/master/assets/images/insta.png"/></a>
   <a href="https://www.linkedin.com/in/samyush-m-4232a3150/"><img align="left" width="25" height="25" src="https://github.com/Samyush/samyush.com.np/blob/master/assets/images/LinkedIn-Logo.wine.png"/></a>
 </p><br/>
-&nbsp;
+<!-- &nbsp; -->
 
 ---
 
@@ -28,5 +29,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
 
 ---
+---
 
 ![End Banner](https://github.com/Samyush/TikTacToe_AI/blob/master/images/banana2.gif)
+---
+---
