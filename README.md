@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyus&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
 
 ### Half done friendship is Half done enmity.
 
