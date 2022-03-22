@@ -1,4 +1,4 @@
-### ME is #FLUTTER, Vue.JS, ANGULAR and Asp.net Core, Laravel 👋
+### ME is #Asp.net Core, FLUTTER, ANGULAR, Vue.JS and Laravel 👋
 
 <!--
 **Samyush/SAMYUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ---
 
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
 ![Header](https://github.com/Samyush/samyush.com.np/blob/constructionIterration1/assets/aeroplanesImages/flyingObject3.gif)
 <img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
 
