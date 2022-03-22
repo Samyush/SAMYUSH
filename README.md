@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## Visitor's Count:
-![Visitor's Count](https://profile-counter.glitch.me/%samyush%7D/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/%7Bsamyush%7D/count.svg)
 
 ---
 
