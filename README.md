@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 [twitter]: https://www.instagram.com/samyush/
 [instagram]: https://instagram.com/samyush/
 [linkedin]: https://www.linkedin.com/in/samyush-m-4232a3150/
+
+ ## Cumulated Work
+<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=samyush&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
