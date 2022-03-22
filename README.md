@@ -5,8 +5,18 @@
 
 Here are some ideas to get you started:
 -->
+## Visitor's Count:
+![Visitor's Count](https://profile-counter.glitch.me/%samyush%7D/count.svg)
+
+---
+
+
 ![Header](https://github.com/Samyush/samyush.com.np/blob/constructionIterration1/assets/aeroplanesImages/flyingObject3.gif)
-[![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/samyush)
+<img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
+
+<!-- the below code is commented and is of github stats and can be used for later purpose -->
+
+<!-- [![SAMYUSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/samyush) -->
 
 ---
 
@@ -30,9 +40,14 @@ Here are some ideas to get you started:
 ![Header](https://github.com/Samyush/samyush.com.np/blob/constructionIterration1/assets/aeroplanesImages/flyingObject3.gif) -->
 
 ---
+ ## Cumulated Work
+<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=samyush&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
+<!-- the below code is commented and can be used for later purpose -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&layout=compact&theme=radical)
+ -->
 ### Half done friendship is Half done enmity.
 
 ---
@@ -45,6 +60,4 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/samyush/
 [linkedin]: https://www.linkedin.com/in/samyush-m-4232a3150/
 
- ## Cumulated Work
-<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=samyush&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyush&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
+
