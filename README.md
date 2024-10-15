@@ -1,4 +1,4 @@
-### ME is #Asp.net Core, FLUTTER, React hmm React? (React somewhat I code), Vue.JS (Vue.JS not sure anymore) and Laravel (Laravel almost about to forget) 👋
+### .net && ML 👋
 
 <!--
 **Samyush/SAMYUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
