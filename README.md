@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/Samyush/samyush.com.np/blob/constructionIterration1/assets/aeroplanesImages/flyingObject3.gif)
 <img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=350 />
-<img align="right" alt="AWS" src="https://github.com/Samyush/SchoolAppASPv2/blob/master/SchoolAppASPv2.Identity/wwwroot/images/aws-academy-graduate-aws-academy-cloud-foundations.png" width=250 />
+<img align="right" alt="AWS" src="https://eportfolio.utm.my/artefact/file/download.php?file=1295007&view=337963&time=1687397331" width=250 />
 
 
 <!-- the below code is commented and is of github stats and can be used for later purpose -->
